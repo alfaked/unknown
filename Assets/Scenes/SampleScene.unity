@@ -420,7 +420,7 @@ GameObject:
   - component: {fileID: 520435549}
   - component: {fileID: 520435548}
   m_Layer: 0
-  m_Name: Ninja Frog
+  m_Name: Ninja Frogg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
